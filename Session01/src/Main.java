@@ -7,7 +7,7 @@ public class Main {
 //        bai03.hoandoivitri();
 //        bai04.chuyendoingoaite();
 //        bai05.kiemTraTinhHopLeMaSach();
-
+//        bai06.heThongPhanBoDinhVi();
     }
 
 }
