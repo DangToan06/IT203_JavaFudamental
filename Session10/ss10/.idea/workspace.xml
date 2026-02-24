@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cb1f720-cdcb-4615-99f6-d24cde764f22" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Demo/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/src/IBonusCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/src/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/src/OfficeStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/src/FullTimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/src/IEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/src/PartTimeEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/Demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/Demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/Demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/Demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/Demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/Demo/Demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/Demo/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/Demo/src/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/Demo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/src/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/src/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/src/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/src/OfficeEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/src/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/src/ProductionEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/src/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesson09/ss09/ss09.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="2" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3A3UECgGdCSKMr7h23jFzpow8Jd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Rikkei/IT203_Java_Fundamental/Session10/ss10",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cb1f720-cdcb-4615-99f6-d24cde764f22" name="Changes" comment="" />
+      <created>1771820633571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771820633571</updated>
+      <workItem from="1771820634651" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
